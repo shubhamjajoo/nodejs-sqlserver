@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-sqlserver",
+  "version": "1.0.0",
+  "description": "Connecting  Nodejs with SQL Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "sqlserver"
+  ],
+  "author": "Shubham Jajoo",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "4.17.1",
+    "mssql": "5.1.0"
+  }
+}
